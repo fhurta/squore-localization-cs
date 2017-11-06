@@ -6,7 +6,7 @@
     <string-array name="BrokenEquipment_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.model.BrokenEquipment -->
         <item>Prasklá struna</item>
-        <item>Rozbitá raketa</item>
+        <item>Prasklá raketa</item>
         <item>Prasklý míček</item>
     </string-array>
     <string-array name="OrientationPreference_DisplayValues">
@@ -24,7 +24,7 @@
         <item>Odemčeno (nelze upravovat)</item>
         <item>Odemčeno</item>
         <item>Odemčeno (ručně)</item>
-        <item>Odemčeno (konec poslední hry)</item>
+        <item>Odemčeno (konec posledního setu)</item>
         <item>Zamčeno (ručně)</item>
         <item>Zamčeno (ručně)</item>
         <item>Zamčeno (konec zápasu)</item>
@@ -35,18 +35,18 @@
     <string-array name="DetermineTextColor_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.prefs.DetermineTextColor -->
         <item>Automaticky vybrat černou nebo bílou</item>
-        <item>Automaticky vybrat za palety</item>
+        <item>Automaticky vybrat z palety</item>
         <item>Ručně</item>
     </string-array>
     <string-array name="KeepScreenOnWhen_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.prefs.KeepScreenOnWhen -->
         <item>Vždy</item>
-        <item>Zápas právě probíhá</item>
+        <item>Když probíhá zápas</item>
         <item>Nikdy</item>
     </string-array>
     <string-array name="BackKeyBehaviour_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.prefs.BackKeyBehaviour -->
-        <item>Pro ukončení stiskněte dvakrát</item>
+        <item>Stisknout dvakrát pro ukončení</item>
         <item>Stisknout jednou pro ukončení</item>
         <item>Zpět (skóre), s potvrzením</item>
         <item>Zpět (skóre), bez potvrzení</item>
@@ -60,10 +60,10 @@
     </string-array>
     <string-array name="RallyEndStatsPrefs_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.prefs.RallyEndStatsPrefs -->
-        <item>Swing side (BH/FH)</item>
-        <item>Strike position</item>
-        <item>Ball direction</item>
-        <item>Ball trajectory</item>
+        <item>Změna strany (BH/FH)</item>
+        <item>Postavení</item>
+        <item>Směr míčku</item>
+        <item>Trajektorie míčku</item>
     </string-array>
     <string-array name="RacketSide_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.model.RacketSide -->
@@ -111,7 +111,7 @@
     </string-array>
 
     <string-array name="GroupMatchesByDisplayValues">
-        <item>Event (událost)</item>
+        <item>Soutěž (event)</item>
         <item>Datum</item>
     </string-array>
     <string-array name="SortOrderDisplayValues">
@@ -127,7 +127,7 @@
     </string-array>
     <string-array name="FeatureDisplayValues">
         <item>Nepoužívat</item>
-        <item>Nabídnout použití</item>
+        <item>Nabízet použití</item>
         <item>Zobrazovat automaticky</item>
     </string-array>
     <string-array name="FeatureDisplayValues_DoAuto">
@@ -136,14 +136,14 @@
         <item>Provádět automaticky</item>
     </string-array>
     <string-array name="ShareMatchPrefsDisplayValues">
-        <item>Sdílet odkaz se všemi detaily zápasu</item>
-        <item>Sdílet detaily zápasu po každém setu</item>
-        <item>Sdílet detaily zápasu po každé polovině setu</item>
-        <item>Sdílet detaily zápasu po každém bodu</item>
+        <item>Sdílet odkaz se všemi podrobnostmi zápasu</item>
+        <item>Sdílet podrobnosti zápasu po každém setu</item>
+        <item>Sdílet podrobnosti zápasu po každé polovině setu</item>
+        <item>Sdílet podrobnosti zápasu po každém bodu</item>
         <item>Sdílet souhrn zápasu</item>
         <item>Sdílet souhrn zápasů</item>
         <item>SMS se souhrnem zápasu na výchozí číslo</item>
-        <item>Odeslat detaily zápasu na web</item>
+        <item>Odeslat podrobnosti zápasu na web</item>
         <item>Odeslat tabulku skóre jako text emailem</item>
     </string-array>
     <string-array name="EndGameDisplayValues">
