@@ -1,0 +1,37 @@
+Používat nedokonavý infinitiv (Zobrazovat, Používat)
+
+Action bar - Tlačítková lišta
+All - všichni
+Announcements - hlášení
+Appeal - žádost
+Behaviour - chování / přizpůsobení
+Call - rozhodnutí
+default - výchozí
+detail - podrobnost
+don't show - nezobrazovat
+dissent - odmlouvání
+edit - upravit
+event - soutěž
+Game - set
+Gameball - setbol
+Halftime - poločas
+Handicap - hendikep
+Matchball - mečbol
+menu - nabídka
+misconduct - prohřešek
+Quick Intro - Stručný úvod
+Receiver - Přijímající
+Restart score - vynulovat skóre
+score history - vývoj skóre (průběh, historie ?)
+Score sheet - zápis utkání
+scoreboard - panel
+second - vteřina (15 vteřin)
+Sequence - pořadí
+Site - web
+Timer - stopky / měření času / časomíra
+warmup - zahřívání
+winners/errors - Vítězné/Chyby
+
+předvolby
+přizpůsobení
+doba
