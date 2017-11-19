@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Score">Score</string>
-    <string name="Game">Game</string>
+    <string name="Score">Skóre</string>
+    <string name="Game">Set</string>
 
     <string name="left_serveside_single_char">L</string>
-    <string name="right_serveside_single_char">R</string>
+    <string name="right_serveside_single_char">P</string>
 
     <string name="no_let_abbreviation">NL</string>
     <string name="yes_let_abbreviation">YL</string>
     <string name="stroke_abbreviation">ST</string>
-    <string name="conduct_warning_abbreviation">CW</string>
-    <string name="conduct_stroke_abbreviation">CS</string>
-    <string name="conduct_game_abbreviation">CG</string>
-    <string name="conduct_match_abbreviation">CM</string>
+    <string name="conduct_warning_abbreviation">TV</string>
+    <string name="conduct_stroke_abbreviation">TS</string>
+    <string name="conduct_game_abbreviation">TG</string>
+    <string name="conduct_match_abbreviation">TZ</string>
 
-    <string name="broken_string_abbreviation">BS</string>
-    <string name="broken_ball_abbreviation">BB</string>
-    <string name="broken_racket_abbreviation">BR</string>
+    <string name="broken_string_abbreviation">PV</string>
+    <string name="broken_ball_abbreviation">PM</string>
+    <string name="broken_racket_abbreviation">PR</string>
 
-    <string name="handout">Hand-out</string>
+    <string name="handout">Ztráta</string>
     <string name="lbl_all_games">All Games</string>
     <!--<string name="lbl_game">Game</string>-->
-    <string name="lbl_players">Players</string>
-    <string name="lbl_event_and_players">Event and Players</string>
-    <string name="lbl_player">Player</string>
-    <string name="lbl_player_A">Player A</string>
-    <string name="lbl_playerA1">Player A1</string>
-    <string name="lbl_playerA2">Player A2</string>
-    <string name="lbl_player_B">Player B</string>
-    <string name="lbl_playerB1">Player B1</string>
-    <string name="lbl_playerB2">Player B2</string>
-    <string name="lbl_player_x">Player %s</string>
-    <string name="lbl_countries">Countries</string>
-    <string name="lbl_country_A">Country A</string>
-    <string name="lbl_country_B">Country B</string>
-    <string name="lbl_clubs">Clubs</string>
-    <string name="lbl_club_A">Club A</string>
-    <string name="lbl_club_B">Club B</string>
-    <string name="add_x_matches">Add %d matches</string>
-    <string name="lbl_event">Event</string>
-    <string name="lbl_division">Division</string>
-    <string name="lbl_round">Round</string>
-    <string name="lbl_location">Location</string>
-    <string name="lbl_referee">Referee</string>
+    <string name="lbl_players">Hráči</string>
+    <string name="lbl_event_and_players">Soutěže a hráči</string>
+    <string name="lbl_player">Hráč</string>
+    <string name="lbl_player_A">Hráč A</string>
+    <string name="lbl_playerA1">Hráč A1</string>
+    <string name="lbl_playerA2">Hráč A2</string>
+    <string name="lbl_player_B">Hráč B</string>
+    <string name="lbl_playerB1">Hráč B1</string>
+    <string name="lbl_playerB2">Hráč B2</string>
+    <string name="lbl_player_x">Hráč %s</string>
+    <string name="lbl_countries">Země</string>
+    <string name="lbl_country_A">Země A</string>
+    <string name="lbl_country_B">Země B</string>
+    <string name="lbl_clubs">Kluby</string>
+    <string name="lbl_club_A">Klub A</string>
+    <string name="lbl_club_B">Klub B</string>
+    <string name="add_x_matches">Přidat %d zápasů</string>
+    <string name="lbl_event">Soutěž</string>
+    <string name="lbl_division">Divize</string>
+    <string name="lbl_round">Kolo</string>
+    <string name="lbl_location">Místo</string>
+    <string name="lbl_referee">Rozhodčí</string>
     <string name="lbl_marker">Marker</string>
     <string name="lbl_versus">vs</string>
 
-    <string name="lbl_broken_equipment">Broken equipment reported by %s</string>
-    <string name="point_awarded_to_p">Point awarded to %s</string>
-    <string name="point">Point</string>
-    <string name="points">Points</string>
-    <string name="lbl_warning">Warning</string>
+    <string name="lbl_broken_equipment">Prasklé vybavení nahlásil %s</string>
+    <string name="point_awarded_to_p">Bod přidělen hráči %s</string>
+    <string name="point">Bod</string>
+    <string name="points">Body</string>
+    <string name="lbl_warning">Varování</string>
 <!--
     <string name="last_game__score_x_induration_y_z">Last game: %s in %s %s</string>
     <string name="last_game__score_x_induration_y_z__2lines">Last game: %s\nin %s %s</string>
 -->
-    <string name="game_ended">Game ended</string>
-    <string name="match_ended">Match ended</string>
+    <string name="game_ended">Set ukončen</string>
+    <string name="match_ended">Zápas ukončen</string>
 
     <!-- source: http://www.worldsquash.org/ws/coaching-development/referees/referees-info/conduct-on-court -->
     <string name="conducts_guidelines_default"><![CDATA[

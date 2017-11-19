@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="oal_warmup">Rozehřátí (Warm Up)</string>
+    <string name="oal_warmup">Zahřívání (Warm Up)</string>
     <string name="oa_halftime">Polovina času (Half-time)!</string>
     <string name="oa_time">Čas!</string>
     <string name="oal_pause">Přestávka</string>
 
-    <string name="oa_best_of_x_games_to_y">Na %1$s vítězné, sety do %2$s</string>
-    <string name="oa_best_of_x_games">Na %1$s vítězné sety</string>
+    <string name="oa_best_of_x_games_to_y">Na nejvýše %1$s sety(ů) do %2$s</string>
+    <string name="oa_best_of_x_games">Na nejvýše %1$s sety(ů)</string>
     <string name="oa_x_to_serve__y_to_receive">%1$s podává, %2$s příjmá</string>
     <string name="oa_love_all">0:0</string>
 
-    <string name="oa_game_to_x">Set do %s</string>
-    <string name="oa_match_to_x">Zápas na %s vítězné</string>
+    <string name="oa_game_to_x">Set pro %s</string>
+    <string name="oa_match_to_x">Zápas na nejvýše %s sety(ů)</string>
     <string name="oa_1_game_all">1:1</string>
-    <string name="oa_x_games_all">%s : %s</string>
+    <string name="oa_x_games_all">%s:%s</string>
     <!--<string name="oa_x_leads_n_against_y">%s leads %s against %s</string>-->
     <!--<string name="oa_x_wins_n_against_y">%s wins %s against %s</string>-->
     <string name="oa_a_leads_xGamesToy">%1$s vede %2$s</string>
     <string name="oa_a_wins_xGamesToy">%1$s vítězí %2$s</string>
-    <string name="oa_x_games_TO_y">ku</string>
+    <string name="oa_x_games_TO_y"></string>
     <string name="oa_x_th_game">%s setům</string>
     <string name="oa_x_to_serve">%s podává</string>
     <string name="oa_love">nula</string>
-    <string name="oa_game">set</string>
-    <string name="oa_games">sety</string>
+    <string name="oa_game">:</string>
+    <string name="oa_games">:</string>
     <string name="oa_gameball">Setbol</string>
     <string name="oa_matchball">Mečbol</string>
 

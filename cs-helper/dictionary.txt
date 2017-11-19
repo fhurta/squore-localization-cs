@@ -3,9 +3,10 @@ Používat nedokonavý infinitiv (Zobrazovat, Používat)
 Action bar - Tlačítková lišta
 All - všichni
 Announcements - hlášení
-Appeal - žádost
+Appeal - žádost/odvolání
 Behaviour - chování / přizpůsobení
 Call - rozhodnutí
+country - země
 default - výchozí
 detail - podrobnost
 don't show - nezobrazovat
@@ -16,6 +17,8 @@ Game - set
 Gameball - setbol
 Halftime - poločas
 Handicap - hendikep
+handout - ztráta
+Marker - marker
 Matchball - mečbol
 menu - nabídka
 misconduct - prohřešek
@@ -35,3 +38,5 @@ winners/errors - Vítězné/Chyby
 předvolby
 přizpůsobení
 doba
+
+„chyba“, „dolů“, „out“, „not up“ nebo „stop“,

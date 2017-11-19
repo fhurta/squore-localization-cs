@@ -52,10 +52,10 @@
     <string name="pref_showScoringHistoryInMainScreen">Zobrazovat průběh zápasu na panelu</string>
     <string name="pref_showSideButtonsWithinScoreButtons">Side buttons within Score buttons</string>
     <string name="pref_showSideButtonsWithinScoreButtons_summary">Umožnit mít tlačítka skótre ještě větší.</string>
-    <string name="pref_AppealHandGestureIconSize">Velikost ikonky v dialogu "Žádost"</string>
+    <string name="pref_AppealHandGestureIconSize">Velikost ikonky v dialogu "Odvolání"</string>
     <string name="pref_AppealHandGestureIconSize_summary">Zadejte 0 pokud nechcete zobrazovat ikonky.</string>
     <string name="pref_showChoosenDecisionShortly">Zobrazovat rozhodnutí jako zprávu</string>
-    <string name="pref_showChoosenDecisionShortly_summary">Zobrazovat krátkou zprávu s hlášením rozhodnutí rozhodčího (po žádosti nebo prohřešku hráče)</string>
+    <string name="pref_showChoosenDecisionShortly_summary">Zobrazovat krátkou zprávu s hlášením rozhodnutí rozhodčího (po odvolání nebo prohřešku hráče)</string>
     <string name="pref_BackKeyBehaviour">Přizpůsobení systémového tlačítka \'Zpět\'</string>
     <string name="pref_VolumeKeysBehaviour">Přizpůsobení tlačítek hlasitosti</string>
     <string name="pref_VolumeKeysBehaviour_summary">\'Zesílit\' přidá bod hráči A, \'Zeslabit\' hráči B</string>
@@ -69,12 +69,12 @@
     <string name="pref_swapPlayersHalfwayGame">Prohodit hráče v půlce setu (?)</string>
     <string name="pref_showDetailsAtEndOfGameAutomatically">Automaticky zobrazovat podrobnosti setu</string>
     <string name="pref_showDetailsAtEndOfGameAutomatically_summary">Po ukončení setu zobrazovat graf průběhu</string>
-    <string name="pref_showTips">Zobrazovat \'Tipy\'</string>
+    <string name="pref_showTips">Zobrazovat Tipy</string>
     <string name="pref_recordRallyEndStatsAfterEachScore">Zobrazovat dialog \'Vítězné/Chyby\' po každém bodu</string>
     <string name="pref_recordRallyEndStatsAfterEachScore_summary">Udržování statistiky Vítězné/Chyby pro každého hráče</string>
-    <string name="pref_recordRallyEndStatsDetails">Záznam podrobností/string>
+    <string name="pref_recordRallyEndStatsDetails">Záznam podrobností</string>
     <string name="pref_recordRallyEndStatsDetails_summary">BH/FH, Vpředu/Volej/Vzadu, směr míčku, trajektorie míčku</string>
-    <string name="pref_showTips_no_more">\'Tipy\' již nezobrazova</string>
+    <string name="pref_showTips_no_more">Tipy již nezobrazova</string>
     <string name="pref_useTossFeature">Používat losování</string>
     <string name="pref_useTossFeature_summary">\'Nabízet\' pro zobrazení tlačítka, \'Automaticky\' pro zobrazení losování na začátku zápasu, \'Nepoužívat\'</string>
     <string name="pref_useShareFeature">Sdílení</string>
@@ -120,7 +120,7 @@
     <string name="pref_OfficialSquashRulesURLs">Odkazy na oficiální pravidla squashe</string>
     <string name="pref_OfficialSquashRulesURLs_summary">První odkaz se použije při volbě \'Zobrazit oficiální pravidla squashe\' v menu</string>
     <string name="pref_FlagsURLs">Odkazy na obrázky vlaječek</string>
-    <string name="pref_FlagsURLs_summary">První odkaz se použije pro stažení obrázků pokud jsou u hráčů uvedeny státy</string>
+    <string name="pref_FlagsURLs_summary">První odkaz se použije pro stažení obrázků pokud jsou u hráčů uvedeny země</string>
     <string name="pref_AutomateAsMuchAsPossible">Automatizace úkonů</string>
     <string name="pref_AutomateAsMuchAsPossible_dialog">Používání losování, časomíry, hlášení rozhodčího, konce setů</string>
     <string name="pref_ScreenLayoutPrefs">Nastavení obrazovky</string>
@@ -139,7 +139,7 @@
     <string name="pref_sortOrderOfArchivedMatches">Způsob řazení archivovaných zápasů</string>
     <string name="pref_useVibrationNotificationInTimer">Použít vibraci pro upozornění</string>
     <string name="pref_useVibrationNotificationInTimer_summary">Zavibrovat při vypršení času (a když zbývá 15 vteřin do konce přestávky, a v půlce zahřívání)</string>
-    <string name="pref_timerWarmup">Doba zahřívání (ve vteřinách)</string>
+    <string name="pref_timerWarmup">Doba zahřívání (s)</string>
     <string name="pref_timerWarmup_summary">Doba určená hráčům pro zahřívání na kurtu. Oficiálně 5 minut: 2,5 minuty na každé straně</string>
     <string name="pref_timerPauseBetweenGames">Doba mezi sety (ve vteřinách)</string>
     <string name="pref_timerPauseBetweenGames_summary">Doba do kdy musí začít další set (ve vteřinách). Oficiálně 90 vteřin. (PSA: 120)</string>
@@ -173,8 +173,8 @@
     <string name="pref_clubList_summary">Používá se na automatické doplňování názvů klubů při zadávání pomocí klávesnice</string>
     <string name="pref_numberOfCharactersBeforeAutocomplete">Počet znaků, při kterých začít nabízet doplnění</string>
     <string name="pref_numberOfCharactersBeforeAutocomplete_summary">Počet znaků, při kterých začít nabízet doplnění jmen či názvů</string>
-    <string name="pref_numberOfCharactersBeforeAutocompleteCountry">Počet znaků, při kterých začít nabízet doplnění státu</string>
-    <string name="pref_numberOfCharactersBeforeAutocompleteCountry_summary">Počet znaků, při kterých začít nabízet doplnění státu</string>
+    <string name="pref_numberOfCharactersBeforeAutocompleteCountry">Počet znaků, při kterých začít nabízet doplnění země</string>
+    <string name="pref_numberOfCharactersBeforeAutocompleteCountry_summary">Počet znaků, při kterých začít nabízet doplnění země</string>
     <string name="pref_maxNumberOfPlayersInGroup">Počet hráčů ve skupině</string>
     <string name="pref_maxNumberOfPlayersInGroup_summary">Maximální počet hráčů ve skupině. Např. pro přidání všech šesti zápasů skupiny čtyř hráčů do \'Mého seznamu\'</string>
     <string name="pref_removeMatchFromMyListWhenSelected">Odstranit zápas z \'Mého seznamu\'</string>
@@ -183,7 +183,7 @@
     <string name="pref_continueRecentMatch_summary">Pokud existuje poslední výsledek zápasu vybraného z \'Mého seznamu\', je tento výsledek použit pro pokračování zápasu</string>
     <string name="pref_matchList">Seznam zápasů</string>
     <string name="pref_matchList_summary">Pevný seznam zápasů pro jednoduchý výběr</string>
-    <string name="pref_matchList_not_set">Pokud budete rozhodovat více zápasů, zde si je můžete dopředu zadat pro pozdější použití. Seznam můžete doplňovat také v \'%1$s\' sekci \'%2$s\' obrazovky.</string>
+    <string name="pref_matchList_not_set">Pokud budete rozhodovat více zápasů, zde si je můžete dopředu zadat pro pozdější použití. Seznam můžete doplňovat také v __%2$s__ -> \'%1$s\'</string>
     <string name="pref_eventList">Seznam soutěží</string>
     <string name="pref_eventList_summary">Seznam soutěží pro automatické doplňování</string>
     <string name="pref_roundList">Seznam kol</string>

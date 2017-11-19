@@ -19,7 +19,7 @@
     <string name="sb_online_sheet_updated">Online tabulka výsledků aktualizována</string>
     <string name="sb_injury_type">Druh zranění</string>
     <string name="sb_doublesServeSequence">Pořadí podání</string>
-    <string name="lblPauseDuration">Délka přestávky</string>
+    <string name="lblPauseDuration">Délka přestávky (s)</string>
     <string name="sb_tiebreak">Zkrácená hra (tie break)</string>
     <string name="sb_tiebreak_receiver_chooses_one_additional_or_not">%1$s-všichni - Přijímající %2$s volí, zda se hraje do %3$s nebo do %4$s</string>
     <string name="sb_tiebreak_receiver_chooses_winning_score">%1$s-všichni - Přijímající %2$s volí vítězné skóre</string>
@@ -52,7 +52,7 @@
     <string name="sb_email_match_result">Poslat výsledek zápasu emailem</string>
     <string name="sb_share_score_sheet">Sdílet tabulku skóre</string>
     <string name="Conduct">Trest</string>
-    <string name="Appeal">Žádost</string>
+    <string name="Appeal">Odvolání</string>
     <string name="Call">Rozhodnutí</string>
     <string name="Type">Type</string>
     <string name="Detail">Podrobnosti</string>
@@ -62,7 +62,7 @@
     <string name="graph_game_x">Graf setu %d</string>
     <string name="graph_x">Graf %s</string>
     <string name="sb_share_match_summary">Sdílet výsledek zápasu</string>
-    <string name="sb_share_matches_summary">Sdílet výsledky zápasuů/string>
+    <string name="sb_share_matches_summary">Sdílet výsledky zápasuů</string>
     <string name="sb_edit_players">Upravit jména hráčů</string>
     <string name="sb_swap_double_players">Prohodit dvojice hráčů</string>
     <string name="sb_swap_players">Prohodit hráče</string>
@@ -105,8 +105,8 @@
     <string name="match_has_finished">Zápas dohrán</string>
     <string name="press_again_to_undo_last_score">Pro odstranění posledního bodu stiskněte znovu vývoj zápasu</string>
     <string name="unable_to_interpret_entered_text_as_2_names">Zadaný text nelze rozpoznat jako dvě jména</string>
-    <string name="best_of_x_games_to_y_1">Na</string>
-    <string name="best_of_x_games_to_y_2_Squash">sety do</string>
+    <string name="best_of_x_games_to_y_1">Nejvýše</string>
+    <string name="best_of_x_games_to_y_2_Squash">sety(ů) do</string>
 
     <string name="no_statistics_recorded_for_this_match">Statistiky (vítězné/chyby) nebyly pro tento zápas vedeny</string>
 
