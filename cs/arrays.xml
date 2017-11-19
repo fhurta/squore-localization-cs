@@ -3,6 +3,11 @@
 
     <!-- display values for java enumeration values -->
 
+    <string-array name="EndMatchManuallyBecause_DisplayValues">
+        <!-- Keep in line with com.doubleyellow.scoreboard.model.EndMatchManuallyBecause -->
+        <item>Vzdal kvůli zranění</item>
+        <item>Trestný zápas</item>
+    </string-array>
     <string-array name="BrokenEquipment_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.model.BrokenEquipment -->
         <item>Prasklá struna</item>
@@ -31,6 +36,8 @@
         <item>Zamčeno (ručně ukončený zápas)</item>
         <item>Zamčeno (přestávka)</item>
         <item>Sdílený ukončený zápas</item>
+        <item>Zamčeno (Vzdal)</item>
+        <item>Zamčeno (Trestný zápas)</item>
     </string-array>
     <string-array name="DetermineTextColor_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.prefs.DetermineTextColor -->
@@ -91,7 +98,7 @@
     <string-array name="ConductType_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.model.ConductType -->
         <item>Chyba výbavy</item>
-        <item>Obscénnosti</item>
+        <item>Obscénosti</item>
         <item>Zdržování</item>
         <item>Odmlouvání</item>
         <item>Osočení rozhodčího</item>
@@ -168,7 +175,7 @@
         <item>Vlaječka vedle jména (Chrome Cast)</item>
     </string-array>
     <string-array name="StartupActionDisplayValues">
-        <item>Nic</item>
+        <item>Žádná</item>
         <!-- all other values presume enum names are choosen wisely to represent readable english -->
     </string-array>
     <string-array name="tiebreakFormatDisplayValues">
@@ -179,7 +186,7 @@
         <item>Náhlá smrt</item>
     </string-array>
     <string-array name="handicapFormatDisplayValues">
-        <item>Žádný</item>
+        <item>Nepoužívat</item>
         <item>Zadat před začátkem zápasu</item>
         <item>Zadat před začátkem každého setu</item>
     </string-array>

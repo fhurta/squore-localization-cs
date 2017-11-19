@@ -10,7 +10,7 @@
     <string name="oa_x_to_serve__y_to_receive">%1$s podává, %2$s příjmá</string>
     <string name="oa_love_all">0:0</string>
 
-    <string name="oa_game_to_x">Set pro %s</string>
+    <string name="oa_game_to_x">set pro %s</string>
     <string name="oa_match_to_x">Zápas na nejvýše %s sety(ů)</string>
     <string name="oa_1_game_all">1:1</string>
     <string name="oa_x_games_all">%s:%s</string>
@@ -19,7 +19,7 @@
     <string name="oa_a_leads_xGamesToy">%1$s vede %2$s</string>
     <string name="oa_a_wins_xGamesToy">%1$s vítězí %2$s</string>
     <string name="oa_x_games_TO_y"></string>
-    <string name="oa_x_th_game">%s setům</string>
+    <string name="oa_x_th_game">%s set</string>
     <string name="oa_x_to_serve">%s podává</string>
     <string name="oa_love">nula</string>
     <string name="oa_game">:</string>

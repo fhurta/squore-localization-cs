@@ -251,7 +251,7 @@ http://developer.android.com/guide/practices/screens_support.html
 \nFeedMatches=feed/psa.php?nr=2
 \n
 \nName=Demo URL
-\nFeedMatches=demo/demo.matches.php
+\nFeedMatches=demo/demo.matches.txt
 \nFeedPlayers=demo/demo.players.txt
 \nPostResult=demo/demo.post.matchresult.php?lang=en
 \n

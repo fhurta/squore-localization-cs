@@ -25,6 +25,7 @@ misconduct - prohřešek
 Quick Intro - Stručný úvod
 Receiver - Přijímající
 Restart score - vynulovat skóre
+Retired - vzdal
 score history - vývoj skóre (průběh, historie ?)
 Score sheet - zápis utkání
 scoreboard - panel

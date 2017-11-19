@@ -137,5 +137,4 @@
     <string name="q_use_entered_match_details">Use entered match details?</string>
 
     <string name="creating_url_for_sharing_match_details">Creating link for sharing match details…</string>
-    <string name="select_reason_and_winner">Select reason and click on winner</string>
 </resources>
