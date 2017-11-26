@@ -97,14 +97,14 @@
     </string-array>
     <string-array name="ConductType_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.model.ConductType -->
-        <item>Chyba výbavy</item>
+        <item>Poškození vybavení</item>
         <item>Obscénosti</item>
-        <item>Zdržování</item>
+        <item>Zdržování hry</item>
         <item>Odmlouvání</item>
-        <item>Osočení rozhodčího</item>
-        <item>Fyzický kontakt</item>
-        <item>Nesportovní</item>
-        <item>Koučink</item>
+        <item>Námitky vůči rozhodčímu</item>
+        <item>Zbytečný fyzický kontakt</item>
+        <item>Nesportovní chování</item>
+        <item>Přijímání pokynů kouče</item>
     </string-array>
     <string-array name="timerViewType_DisplayValues">
         <!-- Keep in line with com.doubleyellow.scoreboard.timer.ViewType -->

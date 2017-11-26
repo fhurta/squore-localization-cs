@@ -241,7 +241,7 @@
     <string name="pref_mailResultTo_not_set">Výchozí emailovou adresu můžete nastavit v \'%1$s\' sekci obrazovky \'%2$s\'</string>
 
     <string name="pref_live_score_summary">Optimalizovat pro a zobrazovat živé skóre</string>
-    <string name="pref_live_score_url">živě</string>
+    <string name="pref_live_score_url">live</string>
     <string name="pref_live_score_url_summary">Použít toto URL pro zobrazení všech zápasů sdílených touto aplikací, např. zápasů vaší soutěže</string>
     <string name="pref_LiveScorePrefs">Umožnit bodování živě</string>
     <string name="pref_updateLiveScore">Aktualizovat živé bodování</string>

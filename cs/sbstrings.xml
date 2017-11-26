@@ -6,8 +6,8 @@
     <string name="msg_enter_authentication_details">Zadejte autentiazční údaje</string>
 
     <!-- Score board -->
-    <string name="sb_not_a_valid_endscore">Aktuální skóre neodpovídá standardnímu ukončení setu.</string>
-    <string name="sb_did_you_mean_conduct_game">Jedná-li se o trestný set, klikněte dlouze na jméno hráče, který se provinil a vyberte pak ze zobrazené nabídky.</string>
+    <string name="sb_not_a_valid_endscore">Aktuální skóre neodpovídá standardnímu konci setu.</string>
+    <string name="sb_did_you_mean_conduct_game">Jedná-li se o trestný set, klikněte dlouze na jméno hráče, který se provinil. Poté vyberte ze zobrazených možností.</string>
     <string name="sb_start_next_game_confirm_message">Začít nový set?</string>
     <string name="Quick_intro">Stručný úvod</string>
     <string name="Start_game">Začít set</string>
@@ -31,13 +31,13 @@
     <string name="sb_cmd_ok_and_start_timer">OK (spustit stopky)</string>
     <string name="sb_cmd_ok_plus">OK +</string>
 
-    <string name="uc_clear_all_fields">Smazat všechna políčka</string>
-    <string name="uc_clear_player_fields">Smazat políčka hráče</string>
-    <string name="uc_clear_country_fields">Smazat políčka země</string>
-    <string name="uc_clear_club_fields">Smazat políčka klubu</string>
-    <string name="uc_clear_event_fields">Smazat políčka soutěže</string>
-    <string name="uc_clear_referee_fields">Clear referee fields</string>
-    <string name="sb_clear_score_confirm_message">Přejete si vynulovat skóre? Přijdete tím o historii bodů tohoto zápasu.</string>
+    <string name="uc_clear_all_fields">Smazat všechno</string>
+    <string name="uc_clear_player_fields">Smazat hráče</string>
+    <string name="uc_clear_country_fields">Smazat země</string>
+    <string name="uc_clear_club_fields">Smazat kluby</string>
+    <string name="uc_clear_event_fields">Smazat soutěž</string>
+    <string name="uc_clear_referee_fields">Smazat rozhodčího</string>
+    <string name="sb_clear_score_confirm_message">Vynulovat skóre? Pozor, přijdete o historii bodů tohoto zápasu.</string>
     <string name="cmd_change_format">Změnit formát</string>
     <string name="sb_select_match">Vybrat zápas</string>
     <string name="sb_static_match">Můj seznam</string>

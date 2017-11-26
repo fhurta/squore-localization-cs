@@ -18,6 +18,7 @@ Gameball - setbol
 Halftime - poločas
 Handicap - hendikep
 handout - ztráta
+Intro - 
 Marker - marker
 Matchball - mečbol
 menu - nabídka

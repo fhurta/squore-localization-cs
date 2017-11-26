@@ -61,42 +61,42 @@
     <!-- source: http://www.worldsquash.org/ws/coaching-development/referees/referees-info/conduct-on-court -->
     <string name="conducts_guidelines_default"><![CDATA[
 \n- Poškození vybavení nebo kurtu (rakety, míčku nebo jiného):
-\nMinor offence (e.g. throwing the racket onto the floor after losing a game, hitting the ball hard after the rally is over): Conduct Warning
-\nMajor offence (e.g. deliberately breaking the racket; smashing the racket against the wall; hitting the ball or throwing the racket out of the court): Conduct Stroke
+\Lehčí provinění (např. odhození rakety po prohraném setu, prudké odpálení míčku po skončení výměny): Varování
+\nTěžší provinění (např. úmyslné zničení rakety; mlácení raketou do zdi; odpálení míčku nebo vyhození rakety mimo kurt): Trestný stroke
 \n
 \n- Slyšitelné nebo viditelné obscénosti:
-\nMinor offence (e.g. muttered expletive; blaspheming): Conduct Warning
-\nMajor offence (e.g. audible obscenity): Conduct Stroke
+\Lehčí provinění (např. tiché nadávání či klení; rouhání se): Varování
+\nTěžší provinění (např. slyšitelné obscénosti): Trestný stroke
 \n
-\n- Time-wasting:
-\nMinor offence (e.g. a few seconds late back on court; taking excessive time to serve): Conduct Warning
-\nMajor offence (e.g. very late back on court; prolonged discussion with Referee): Conduct Stroke
+\n- Zdržování hry:
+\Lehčí provinění (např. pozdní návrat na kurt v řádu několika vteřin; nepřiměřeně dlouhý čas na podání): Varování
+\nTěžší provinění (např. příliš pozdní návrat na kurt; protahování diskuse s rozhodčím): Trestný stroke
 \n
-\n- Dissent:
-\nMinor offence (e.g. questioning a decision): Conduct Warning
-\nMajor offence (e.g. prolonged or repeated questioning of or disagreement with decisions): Conduct Stroke
+\n- Odmlouvání:
+\Lehčí provinění (např. rozporování rozhodnutí): Varování
+\nTěžší provinění (např. protahování nebo opakované námitky či rozporování rozhodnutí): Trestný stroke
 \n
-\n- Abuse of Official:
-\nMinor offence (e.g. unflattering comments about official or decisions): Conduct Warning
-\nMajor offence (e.g. pejorative comments about official or decisions): Conduct Stroke
-\nSevere offence (e.g. hitting ball at official or into spectators; throwing racket at official or into spectators): Conduct Game or Match (depending on the severity of the offence and the danger caused)
+\n- Námitky vůči Rozhodčímu nebo Markerovi:
+\Lehčí provinění (např. nevhodné komentáře rozhodčího nebo rozhodnutí): Varování
+\nTěžší provinění (např. urážlivé komentáře rozhodčího nebo rozhodnutí): Trestný stroke
+\nZávažné provinění (např. odpálení míčku směrem k rozhodčímu nebo divákům; hození rakety směrem k rozhodčímu nebo divákům): Trestný set nebo zápas (podle závažnosti provinění, případně ohrožení)
 \n
-\n- Excessive physical contact:
-\nMinor offence (e.g. running into the opponent): Conduct warning
-\nMajor offence (e.g. physical abuse of the opponent): Conduct Stroke
-\nSevere offence (e.g. deliberately injuring the opponent; dangerous play that injures the opponent): Conduct Game or Match (depending on the severity of the offence and the extent of the injury caused)
+\n- Zbytečný fyzický kontakt:
+\Lehčí provinění (např. odstrčení protihráče): Varování
+\nTěžší provinění (např. fyzické napadení protihráče): Trestný stroke
+\nZávažné provinění (např. úmyslné zranění protihráče; nebezpečná hra, vedoucí ke zranění protihráče): Trestný set nebo zápas (podle závažnosti provinění a závažnosti poranění soupeře)
 \n
-\n- Unsporting conduct:
-\nMinor offence (e.g. making negative comments to the opponent): Conduct Warning
-\nMajor offence (e.g. repeated negative or pejorative comments to the opponent; any attempt at intimidation of the opponent): Conduct Stroke
-\nSevere offence (e.g. extreme behaviour that brings the game into disrepute): Conduct Game or Match (depending on the severity of the offence)
+\n- Nesportovní chování:
+\Lehčí provinění (např. negativní poznámky k protihráči): Varování
+\nTěžší provinění (např. opakované negativní nebo urážlivé poznámky k protihráči; jakýkoliv pokus zastrašování soupeře): Trestný stroke
+\nZávažné provinění (např. krajně nevhodné chování poškozující pověst hry): Trestný set nebo zápas (podle závažnosti provinění)
 \n
-\n- Coaching:
-\nFirst occurrence: Conduct Warning
-\nSecond occurrence: Conduct Stroke and expulsion of offending person
+\n- Přijímání pokynů kouče během hry:
+\nPoprvé: Varování
+\nOpakovaně: Trestný stroke and vyloučení provinilé osoby
 \n
-\n- Repeated and excessive bad conduct:
-\nWhen, in the Referee’s opinion, the player is guilty of repeated acts of unacceptable conduct on court following the imposition of the penalties outlined above, the Referee may impose for the next occurrence of the offence either the same penalty for the second offence or a more severe penalty than the one already imposed. However, if a Conduct Warning has been given for both the first and the second offences, for the third offence of a similar nature a Conduct Stroke must be applied. (Example: If a player has received a Conduct Warning for Dissent, on the next occurrence of this offence, either a Conduct Warning or a Conduct Stroke may be imposed. On the third occurrence, however, a Conduct Stroke is mandatory.)
+\n- Opakované a krajně nevhodné chování:
+\nRozhodčí může udělit za opakující se obdobný přestupek Napomenutí, Trestný bod nebo Trestný set více než jednou, s tím, že úroveň potrestání nesmí být nižší, než předchozí trest za stejný přestupek.
 \n
     ]]></string>
 </resources>
